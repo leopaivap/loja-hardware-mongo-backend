@@ -1,0 +1,5 @@
+com\lojahardware\service\ProductService.class
+com\lojahardware\controller\ProductController.class
+com\lojahardware\repository\ProductRepository.class
+com\lojahardware\LojaHardwareApplication.class
+com\lojahardware\model\Product.class
